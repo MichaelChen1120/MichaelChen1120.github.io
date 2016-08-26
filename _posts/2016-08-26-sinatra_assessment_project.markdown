@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sinatra Assessment Project"
-date:   2016-08-26 05:48:22 +0000
+date:   2016-08-26 01:48:22 -0400
 ---
 
 
